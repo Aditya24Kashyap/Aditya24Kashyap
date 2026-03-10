@@ -6,10 +6,10 @@ I enjoy working and learning on **algorithms, system design concepts, and modern
 
 Currently I am focused on:
 
-• Strengthening **Data Structures & Algorithms**
-• Learning **System Design fundamentals**
-• Exploring **Web Development**
-• Building projects to develop **real-world engineering experience**
+*• Strengthening **Data Structures & Algorithms**
+*• Learning **System Design fundamentals**
+*• Exploring **Web Development**
+*• Building projects to develop **real-world engineering experience**
 
 I enjoy solving challenging technical problems and continuously learning new technologies to build efficient and scalable software.
 
