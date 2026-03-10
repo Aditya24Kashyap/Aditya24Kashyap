@@ -39,17 +39,6 @@ I enjoy solving challenging technical problems and continuously learning new tec
 
 ---
 
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap\&theme=dark\&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya24Kashyap\&theme=dark\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap\&theme=dark\&hide_border=false\&layout=compact)
-
----
-
 # 📈 GitHub Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Aditya24Kashyap\&theme=react-dark)
