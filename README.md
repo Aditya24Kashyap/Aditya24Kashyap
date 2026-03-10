@@ -1,16 +1,78 @@
-## Hi there 👋
+# 💫 About Me
 
-<!--
-**Aditya24Kashyap/Aditya24Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm **Aditya Kashyap**, a **Engineer undergraduate** passionate about software development and problem solving.
 
-Here are some ideas to get you started:
+I enjoy working and learning on **algorithms, system design concepts, and modern web technologies** while continuously improving my engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I am focused on:
+
+• Strengthening **Data Structures & Algorithms**
+• Learning **System Design fundamentals**
+• Exploring **Web Development**
+• Building projects to develop **real-world engineering experience**
+
+I enjoy solving challenging technical problems and continuously learning new technologies to build efficient and scalable software.
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
+---
+
+# 🔥 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aditya_Kashyap_?theme=dark\&font=Fira%20Code\&ext=heatmap)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap\&theme=dark\&hide_border=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Aditya24Kashyap\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+# 📈 GitHub Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Aditya24Kashyap\&theme=react-dark)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Aditya24Kashyap)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/Aditya_Kashyap_/)
+
+---
+
+⭐ From [Aditya24Kashyap](https://github.com/Aditya24Kashyap)
