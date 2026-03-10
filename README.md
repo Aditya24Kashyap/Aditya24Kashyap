@@ -39,11 +39,6 @@ I enjoy solving challenging technical problems and continuously learning new tec
 
 ---
 
-# 🔥 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aditya_Kashyap_?theme=dark\&font=Fira%20Code\&ext=heatmap)
-
----
 
 # 📊 GitHub Stats
 
