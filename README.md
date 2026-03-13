@@ -47,12 +47,6 @@ I enjoy solving challenging technical problems and continuously learning new tec
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
 # 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Aditya24Kashyap)
