@@ -48,6 +48,16 @@ I enjoy solving challenging technical problems and continuously learning new tec
 
 ---
 
+# 📊 GitHub Stats
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap\&layout=compact\&theme=tokyonight)
+
+---
+
 # 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/Aditya24Kashyap)
