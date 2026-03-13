@@ -39,7 +39,6 @@ I enjoy solving challenging technical problems and continuously learning new tec
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
