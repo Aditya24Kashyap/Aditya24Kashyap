@@ -1,5 +1,9 @@
 # 💫 About Me
 
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
 Hello, I'm **Aditya Kashyap**, a **Engineer undergraduate** passionate about software development and problem solving.
 
 I enjoy working and learning on **algorithms, system design concepts, and modern web technologies** while continuously improving my engineering skills.
