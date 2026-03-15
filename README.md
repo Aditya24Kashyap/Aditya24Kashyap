@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://camo.githubusercontent.com/bcd5f99440749a0…834726d564a437748537771686b2f67697068792e77656270)" width="400">
 </p>
 
 Hello, I'm **Aditya Kashyap**, a **Engineer undergraduate** passionate about software development and problem solving.
