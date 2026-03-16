@@ -31,6 +31,7 @@ I enjoy solving challenging technical problems and continuously learning new tec
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)   
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 Express.js
