@@ -29,7 +29,7 @@ I enjoy solving challenging technical problems and continuously learning new tec
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge\&logo=react)
-![Next.js](https://badgen.net/badge/Next.js/blue?icon=nextjs)
+![Next.js](https://badgen.net/badge/Next.js/14.2.0/blue?icon=nextjs)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)   
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)   
