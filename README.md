@@ -65,7 +65,7 @@ Express.js
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak]()
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap\&theme=tokyonight)
 
 ---
 
