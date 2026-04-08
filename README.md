@@ -78,7 +78,7 @@ Express.js
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="220"/>
 </p>
 
 ⭐ From [Aditya24Kashyap](https://github.com/Aditya24Kashyap)
