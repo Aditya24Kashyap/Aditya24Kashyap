@@ -63,8 +63,8 @@ ExpressJS
 
 # 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.demolab.com/api?username=Aditya24Kashyap&amp;show_icons=true&amp;theme=tokyonight)   
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap&amp;show_icons=true&amp;theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap&amp;show_icons=true&amp;theme=tokyonight)  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap\&theme=tokyonight)
 
 ---
