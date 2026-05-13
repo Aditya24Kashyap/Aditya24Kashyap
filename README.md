@@ -52,6 +52,7 @@ Express.JS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge\&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)   
 
 ---
 
