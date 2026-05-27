@@ -68,7 +68,7 @@ Express.JS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap&layout=compact&theme=tokyonight)   
 
 ---
 
