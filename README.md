@@ -56,14 +56,6 @@ Currently I am focused on:
 
 ---
 
-## 🚀 Featured Projects
-
-- **[LeetCommit](https://github.com/Aditya24Kashyap/LeetCommit)** — Browser extension that automatically pushes your accepted LeetCode solutions to GitHub.
-- **[Geminoid](https://github.com/Aditya24Kashyap/Geminoid)** — Gemini-powered AI assistant built with React, Tailwind CSS, Zustand, and Vite.
-- **[Navigator_Dijkstra_Learn](https://github.com/Aditya24Kashyap/Navigator_Dijkstra_Learn)** — Finds the shortest route between Delhi Metro stations using Dijkstra's Algorithm.
-
----
-
 ## 📈 GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya24Kashyap&theme=react-dark)
