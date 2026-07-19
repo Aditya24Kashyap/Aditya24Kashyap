@@ -56,6 +56,14 @@ Currently I am focused on:
 
 ---
 
+## 🚀 Featured Projects
+
+- **[LeetCommit](https://github.com/Aditya24Kashyap/LeetCommit)** — Browser extension that automatically pushes your accepted LeetCode solutions to GitHub.
+- **[Geminoid](https://github.com/Aditya24Kashyap/Geminoid)** — Gemini-powered AI assistant built with React, Tailwind CSS, Zustand, and Vite.
+- **[Navigator_Dijkstra_Learn](https://github.com/Aditya24Kashyap/Navigator_Dijkstra_Learn)** — Finds the shortest route between Delhi Metro stations using Dijkstra's Algorithm.
+
+---
+
 ## 📈 GitHub Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aditya24Kashyap&theme=react-dark)
@@ -64,9 +72,14 @@ Currently I am focused on:
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aditya24Kashyap&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap&theme=tokyonight)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Aditya24Kashyap&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Aditya24Kashyap&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Aditya's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditya24Kashyap&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya24Kashyap&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
 
 ---
 
