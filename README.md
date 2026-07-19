@@ -64,7 +64,7 @@ Currently I am focused on:
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya24Kashyap&show_icons=true&theme=tokyonight)
+![Aditya's GitHub stats](https://github-stats-extended.vercel.app/api?username=Aditya24Kashyap&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aditya24Kashyap&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya24Kashyap&layout=compact&theme=tokyonight)
 
