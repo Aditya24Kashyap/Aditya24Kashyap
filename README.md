@@ -69,7 +69,9 @@ Currently I am focused on:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditya24Kashyap&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
 </p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya24Kashyap&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+</p>
 
 ---
 
