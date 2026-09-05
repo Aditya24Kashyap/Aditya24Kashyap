@@ -1,7 +1,7 @@
 # About Me
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5lMHhqbW5hejN2dGp2NXg0emw1bTVoODR2b3dvbjdtMGZ2ZGR0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5lMHhqbW5hejN2dGp2NXg0emw1bTVoODR2b3dvbjdtMGZ2ZGR0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" width="40"/>
 </p>
 
 Hello, I'm **Aditya Kashyap**, an **Engineering undergraduate** passionate about software development and problem solving.
