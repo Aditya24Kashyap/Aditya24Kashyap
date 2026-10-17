@@ -86,5 +86,3 @@ Currently I am focused on:
 ⭐ From [Aditya24Kashyap](https://github.com/Aditya24Kashyap)
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
-
-![gif](https://github.com/static/images/modules/dashboard/promos/universe26-virtual.svg)
